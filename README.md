@@ -3,7 +3,7 @@
 ## 🏆 Hackathon Achievements
 <!--https://github.com/grossitech/grossitech/blob/main/ModularCarnivalHackathon.png?raw=true-->
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center">
         <img src="ModularCarnivalHackathon.png" alt="Constellation Hackathon" width="250"/>
