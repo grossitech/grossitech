@@ -8,7 +8,7 @@
       <td align="center">
         <img src="ModularCarnivalHackathon.png" alt="Constellation Hackathon" width="250"/>
         <br/>
-        <b>🏅 Chainlink Constellation</b>
+        <b>🏅 Modular Carnival Hackathon</b>
         <br/>
         <a href="https://devpost.com/software/horizon-8qkbv0">View Project</a>
       </td>
