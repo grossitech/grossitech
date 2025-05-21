@@ -16,6 +16,21 @@
   </table>
 </p>
 
+## 🔭 I’m currently working on
+
+- Data Governance
+- Exploring Web3
+- Solidity Learner
+
+## 🗣️ Languages
+
+- 🇧🇷 Portuguese (Native)
+- 🇺🇸 English
+
+## 📫 Contact
+
+- [Linkedin](https://www.linkedin.com/in/lucianogrossi/)
+
 
 <!--
 **grossitech/grossitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
