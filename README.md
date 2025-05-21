@@ -10,7 +10,7 @@
         <br/>
         <b>🏅 Modular Carnival Hackathon</b>
         <br/>
-        <a href="https://devpost.com/software/horizon-8qkbv0">View Project</a>
+        <a href="https://github.com/grossitech/FlyChain">View Project</a>
       </td>
     </tr>
   </table>
