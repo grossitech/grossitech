@@ -1,4 +1,21 @@
-## Hi there 👋
+## Hi there, I´m Luciano Grossi 👋
+
+## 🏆 Hackathon Achievements
+<!--https://github.com/grossitech/grossitech/blob/main/ModularCarnivalHackathon.png?raw=true-->
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="ModularCarnivalHackathon.png" alt="Constellation Hackathon" width="250"/>
+        <br/>
+        <b>🏅 Chainlink Constellation</b>
+        <br/>
+        <a href="https://devpost.com/software/horizon-8qkbv0">View Project</a>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 <!--
 **grossitech/grossitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
