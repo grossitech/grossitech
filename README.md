@@ -21,6 +21,9 @@
 - Data Governance
 - Exploring Web3
 - Solidity Learner
+- IA and LLM
+
+Check my [repositories](https://github.com/grossitech?tab=repositories).
 
 ## 🗣️ Languages
 
